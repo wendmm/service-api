@@ -1,0 +1,31 @@
+{
+    "services":[
+        {
+            "_id":"5f9fb2a183e4ed2da81e8657",
+            "selectedServiceCatagory":"Food",
+            "selectedServiceSubCatagory":"Fisik",
+            "serviceName":"tibs",
+            "servicePrice":32.21
+        },
+
+        {
+            "_id":"5f9fb743100d2122fc26d493",
+            "selectedServiceCatagory":"Drinking",
+            "selectedServiceSubCatagory":"Soft dring",
+            "serviceName":"Fanta",
+            "servicePrice":15
+            
+
+        },
+
+        {
+            "_id":"5f9fbba2217f5526e8c3f552",
+            "selectedServiceCatagory":"Alga",
+            "selectedServiceSubCatagory":"Double",
+            "serviceName":"no 07",
+            "servicePrice":250
+            
+
+        }
+    ]
+}
