@@ -26,6 +26,34 @@
             "servicePrice":250
             
 
+        },
+
+         {
+            "_id":"5f9fb2a183e4ed2da81e8657",
+            "selectedServiceCatagory":"Food",
+            "selectedServiceSubCatagory":"Yetsom",
+            "serviceName":"Shiro",
+            "servicePrice":45
+        },
+
+        {
+            "_id":"5f9fb743100d2122fc26d493",
+            "selectedServiceCatagory":"Drinking",
+            "selectedServiceSubCatagory":"Alchoolic",
+            "serviceName":"Dashin beer",
+            "servicePrice":30
+            
+
+        },
+
+        {
+            "_id":"5f9fbba2217f5526e8c3f552",
+            "selectedServiceCatagory":"Alga",
+            "selectedServiceSubCatagory":"Single",
+            "serviceName":"no 12",
+            "servicePrice":250
+            
+
         }
     ]
 }
