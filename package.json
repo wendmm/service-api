@@ -1,0 +1,25 @@
+{
+  "name": "service-api",
+  "version": "1.0.0",
+  "description": "service api for clp",
+  "main": "index.js",
+  "dependencies": {
+    "json": "^10.0.0",
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendmm/service-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendmm/service-api/issues"
+  },
+  "homepage": "https://github.com/wendmm/service-api#readme"
+}
